@@ -1,5 +1,6 @@
 ### Hello 
-My profile is pretty empty due to only joining recently 
+My profile is pretty empty due to only joining recently but I've been coding for 2 years
+I previously did VEX Robotics so had some, but limied, interaction with code 
 
 Languages: 
 - Python - intermediate 
