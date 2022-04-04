@@ -12,7 +12,7 @@ Projects I have worked on:
   - Determining the number of each possible hand 
   -  Computer to play against you using logic 
   -  Working environment to play in including betting (still in progress) 
-- Experimenting with pixi.js in the attempt to make a 2D viewable asset 
+- Experimenting (struggling) with pixi.js in the attempt to make a 2D viewable asset 
 
 Next year: 
 - I will be using React Native (JS) 
