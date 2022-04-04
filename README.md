@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello 
 
-<!--
-**kayan-xvi/kayan-xvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Languages: 
+- Python - intermediate 
+- C - intermediate 
+- JavaScript - Beginner (currently experimenting with tools: Node.js, pixi.js) 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects I have worked on: 
+- Wordle bot 
+- Poker (heads up no limit HE) bot  
+  - Determining the number of each possible hand 
+  -  Computer to play against you using logic 
+  -  Working environment to play in including betting (still in progress) 
+- Experimenting with pixi.js in the attempt to make a 2D viewable asset 
