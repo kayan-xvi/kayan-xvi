@@ -21,3 +21,5 @@ Next year:
 I want to learn more about: 
 - ANNs 
 - ML 
+- Pixi.js 
+- Numpy 
