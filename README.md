@@ -9,7 +9,7 @@ Languages:
 
 Projects I have worked on: 
 - Wordle bot 
-- Poker (heads up no limit HE) bot  
+- Poker (heads-up NLHE) bot  
   - Determining the number of each possible hand 
   -  Computer to play against you using logic 
   -  Working environment to play in including betting (still in progress) 
