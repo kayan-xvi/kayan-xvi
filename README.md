@@ -15,7 +15,7 @@ Projects I have worked on:
   -  Working environment to play in including betting (still in progress) 
 - Experimenting (struggling) with pixi.js in the attempt to make a 2D viewable asset 
 
-Next year: 
+Starting September 2022: 
 - I will be using React Native (JS) 
 
 I want to learn more about: 
