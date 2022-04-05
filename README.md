@@ -1,7 +1,7 @@
 ### Hello 
 My profile is pretty empty due to only joining recently but I've been coding for 2 years
 I previously did VEX Robotics so had some, but limied, interaction with code 
-(And no Atlas I did not just make this for you - I've been using it for JS resources)
+(And no, I haven't just made this for Atlas, though I have populated it for you - I've been using it for JS resources)
 
 Languages: 
 - Python - intermediate 
